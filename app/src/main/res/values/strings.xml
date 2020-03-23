@@ -1,0 +1,27 @@
+<resources>
+    <string name="exit">Salir</string>
+    <string name="name">Nombre</string>
+    <string name="login">Login</string>
+    <string name="group">Grupo</string>
+    <string name="e_mail">Email</string>
+    <string name="user">Usuario</string>
+    <string name="phone">Telefono</string>
+    <string name="ingresar">Guardar</string>
+    <string name="lastname">Apellido</string>
+    <string name="update">Actualizar</string>
+    <string name="password">Contraseña</string>
+    <string name="birthday">Cumpleaños</string>
+    <string name="dropDb">Eliminar Todos</string>
+    <string name="cleanValues">Limpiar Datos</string>
+    <string name="addContact">Agregar Contacto</string>
+    <string name="listContacto">Lista Contacto</string>
+    <string name="app_name">Parcial 1 Ever Acosta</string>
+
+
+    <string-array name="grupo">
+        <item>Amigos</item>
+        <item>Familia</item>
+        <item>Fiesta</item>
+        <item>Trabajo</item>
+    </string-array>
+</resources>
